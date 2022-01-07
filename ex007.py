@@ -14,7 +14,7 @@ elif operacao=='^':
     print(n1**n2)
 else:
     print('OPERAÇÃO INVÁLIDA')
-operacao=input('Escolha uma operação ')
+
 
 
 
