@@ -19,4 +19,4 @@ elif folgaAnterior == "quinta-feira":
 elif folgaAnterior == "sexta-feira":
     print("Sua próxima folga será quarta-feira")    
        
-else: print("Tente novamente. Opções válidas: \"é meu primeiro dia\", \"terça-feira\", \"quarta-feira\" ou \"domingo\"")
+else: print("Tente novamente. Opções válidas: \"é meu primeiro dia\", \"terça-feira\", \"quarta-feira\", \"quinta-feira\", \"sexta-feira\" ou \"domingo\"")
